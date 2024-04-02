@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	pb "github.com/PraneGIT/gRPC-complete/proto"
+	pb "github.com/anudeeps0306/gRPC-complete/proto"
 
 	"google.golang.org/grpc"
 )
